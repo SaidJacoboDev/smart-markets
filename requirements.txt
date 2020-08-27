@@ -1,0 +1,11 @@
+wheel
+tensorflow
+pandas
+numpy
+backtrader
+matplotlib
+TA-Lib
+scikit-learn
+keras
+yfinance
+alpha-vantage
